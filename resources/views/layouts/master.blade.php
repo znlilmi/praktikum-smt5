@@ -40,22 +40,30 @@
             </a>
 
             <!-- Divider -->
-            <hr class="sidebar-divider my-0">
+            <hr class="sidebar-divider">
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
                 <a class="nav-link" href="/admin">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span></a>
+                        <span>Dashboard</span>
+                </a>
             </li>
+
             <li class="nav-item active">
                 <a class="nav-link" href="/admin/barang">
                     <i class="fas fa-fw fa-list"></i>
-                    <span>Data Barang</span></a>
+                        <span>Data Barang</span>
+                </a>
             </li>
 
-            <!-- Divider -->
-            <hr class="sidebar-divider">
+            <li class="nav-item active">
+                <a class="nav-link" href="/admin/laporan">
+                    <i class="fas fa-fw fa-file"></i>
+                    <span>Laporan</span>
+                </a>
+            </li>
+
             
 
         </ul>

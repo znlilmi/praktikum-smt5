@@ -31,7 +31,7 @@
                             
                             <div class="col-lg-6 d-none d-lg-block bg-login-image">
                                 <br/>
-                                <img src="/sbadmin/img/logo.png" width="70%">
+                                <img src="/sbadmin/img/login.jpg" width="70%">
                             </div>
 
                             <div class="col-lg-6">
